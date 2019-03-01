@@ -7,19 +7,20 @@
         <div class="item-graphics" :class="{show: showGraphics}">
           <img src="../../assets/images/graphics_1.png" alt="graphics_1">
           <div class="text">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur, eveniet!
+            Сравнение дальнего света с лучшим показателем от протестированных ламп брендов А-класса, более подробная информация в протоколах испытаний.
+
           </div>
         </div>
         <div class="item-graphics" :class="{show: showGraphics}">
-          <img src="../../assets/images/graphics_2.png" alt="graphics_2">
+          <img src="../../assets/images/graphics_3.png" alt="graphics_2">
           <div class="text">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, nostrum!
+            В сравнении с лампой с повышенной светоотдачей от Osram. Подробнее см. протокол испытания ниже
           </div>
         </div>
         <div class="item-graphics" :class="{show: showGraphics}">
-          <img src="../../assets/images/graphics_3.png" alt="graphics_3">
+          <img src="../../assets/images/graphics_2.png" alt="graphics_3">
           <div class="text">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, quis.
+            Согласно собственным внутренним испытаниям компании. Подробнее см ниже.
           </div>
         </div>
 

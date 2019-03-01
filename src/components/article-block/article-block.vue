@@ -24,7 +24,7 @@
               </a>
             </div>
             <div class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_2.png" alt="">
               <div class="information">
                 <div class="type">
                   Полезная информация
@@ -39,7 +39,7 @@
               </div>
             </div>
             <div class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_3.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ
@@ -57,7 +57,7 @@
           </div>
           <div v-if="articleShow===1" key="group2"  class="article-container full">
             <div class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_4.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ
@@ -74,7 +74,7 @@
               </div>
             </div>
             <div class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_5.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ
@@ -93,7 +93,7 @@
               </div>
             </div>
             <div class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_6.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ
@@ -133,7 +133,7 @@
                 </a>
               </div>
             <div v-if="countArticle===1" key="article1" class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_2.png" alt="">
               <div class="information">
                 <div class="type">
                   Полезная информация
@@ -148,7 +148,7 @@
               </div>
             </div>
             <div v-if="countArticle===2" key="article2" class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_3.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ
@@ -164,7 +164,7 @@
               </div>
             </div>
             <div v-if="countArticle===3" key="article3" class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_4.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ
@@ -181,7 +181,7 @@
               </div>
             </div>
             <div v-if="countArticle===4" key="article4" class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_5.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ
@@ -200,7 +200,7 @@
               </div>
             </div>
             <div v-if="countArticle===5" key="article5" class="article">
-              <img src="../../assets/images/article_1.png" alt="">
+              <img src="../../assets/images/article_6.png" alt="">
               <div class="information">
                 <div class="type">
                   Вопрос/Ответ

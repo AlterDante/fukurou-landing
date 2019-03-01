@@ -12,7 +12,7 @@
         430011, Саранск <br>
         улица Степана Разина, 44
       </div>
-      <div class="email">
+      <div class="email" >
         sales@fukurou.ru
       </div>
       <div class="time">

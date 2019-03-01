@@ -1,7 +1,7 @@
 <template>
     <div class="feedback-block" ref="feedbackBlock" id="feedback">
         <div class="title">
-          Больше продукции Fukurou смотрите в каталоге
+          Связаться с нами
         </div>
       <div class="feedback-container">
         <div class="form-wrapper question" :class="{show:showForms}">

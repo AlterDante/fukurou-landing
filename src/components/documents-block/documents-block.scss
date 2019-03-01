@@ -64,4 +64,16 @@
         }
     }
   }
+  .text{
+    color: white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+    .text-title{
+      text-transform: uppercase;
+      font-weight: bold;
+      padding-bottom: 20px;
+    }
+  }
 }

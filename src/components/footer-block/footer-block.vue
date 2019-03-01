@@ -15,8 +15,8 @@
       <div class="title">Мы в социальных сетях</div>
       <div class="links">
         <a href="https://vk.com/fukurou_russia" target="_blank"><img src="../../assets/images/vk.png" alt=""></a>
-        <a href=""><img src="../../assets/images/ok.png" alt=""></a>
-        <a href=""><img src="../../assets/images/fb.png" alt=""></a>
+        <!--<a href=""><img src="../../assets/images/ok.png" alt=""></a>-->
+        <!--<a href=""><img src="../../assets/images/fb.png" alt=""></a>-->
       </div>
     </div>
   </div>
