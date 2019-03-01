@@ -1,0 +1,72 @@
+.product-block{
+  width: 100%;
+  background-color: #393c43;
+  min-height: 50vw ;
+  padding-bottom: 50px;
+  overflow: hidden;
+  .title{
+    padding: 60px 0;
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color:white;
+  }
+  .product-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    @media screen and (max-width: 720px){
+      flex-direction: column;
+    }
+    img{
+      width: 25%;
+      padding: 10px;
+      @media screen and (max-width: 720px){
+        width: 80%;
+      }
+    }
+  }
+  .market{
+    width: 100%;
+    background: {
+      size: cover;
+      position: center;
+      image: url("../../assets/images/market_bg.png");
+    };
+    .title{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      img{
+        padding-top: 20px;
+        width: 30px;
+      }
+    }
+    .markets{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-bottom: 30px;
+      @media screen and (max-width: 450px){
+        flex-direction: column;
+      }
+      a{
+        width: 20%;
+        padding: 20px;
+        @media screen and (max-width: 720px){
+          width: 30%;
+        }
+        @media screen and (max-width: 450px){
+          width: 80%;
+        }
+        img{
+          width: 100%;
+        }
+      }
+    }
+  }
+}

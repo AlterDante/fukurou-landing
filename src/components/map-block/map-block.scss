@@ -1,0 +1,53 @@
+.map-block{
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  .information{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    width: 300px;
+    height: 250px;
+    background-color: #393c43;
+    z-index: 250;
+    box-shadow: 26px 21px 0px 0px rgba(52,54,60,1);
+    color: white;
+    padding: 20px;
+    @media screen and (max-width: 720px){
+      position: static;
+      width: 100%;
+      box-shadow: none;
+    }
+    .title{
+      color: #8f9195;
+      font-size: 0.8em;
+    }
+    .text{
+      font-size: 1.2em;
+      padding-top: 15px;
+    }
+    .address{
+      padding-top: 15px;
+    }
+    .email{
+      padding-top: 15px;
+      font-size: 1.5em;
+    }
+    .time{
+      font-weight: bold;
+      padding-top: 15px;
+      color: #8f9195;
+      font-size: 0.8em;
+    }
+  }
+  .ymap-container{
+    width: 100%;
+    height: 40vw;
+    @media screen and (max-width: 720px){
+      height: 60vh;
+      }
+    //& > div{
+    //  height: 50vw;
+    //}
+  }
+}
