@@ -18,7 +18,7 @@
             sales@fukurou.ru
           </div>
           <div class="time">
-            Время работы c 10:00 до 17:00
+            Время работы Пн.-Пт. c 10:00 до 17:00
           </div>
         </div>
       </header>
