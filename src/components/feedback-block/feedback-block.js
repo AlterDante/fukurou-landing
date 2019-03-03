@@ -35,9 +35,9 @@ export default {
         formData.append('message', this.dataQuestion.message)
         formData.append('subject', 'Задан вопрос с сайта')
         http.post('mail.php',formData).then((e)=>{
-          this.doneStatus.question = true
-          this.errorMessage.question = false
         })
+        this.doneStatus.question = true
+        this.errorMessage.question = false
       }else{
         this.errorMessage.question = true
       }
@@ -50,9 +50,9 @@ export default {
         formData.append('message', this.dataRequest.message)
         formData.append('subject', 'Заявка с сайта')
         http.post('mail.php',formData).then((e)=>{
-          this.doneStatus.request = true
-          this.errorMessage.request = false
         })
+        this.doneStatus.request = true
+        this.errorMessage.request = false
       }else{
         this.errorMessage.request = true
       }

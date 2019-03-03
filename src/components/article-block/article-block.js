@@ -8,15 +8,15 @@ export default {
   },
   methods:{
     nextSlid(){
-      if(this.articleShow===0){
+      if(this.articleShow<2){
         this.articleShow++
       }
-      if(this.countArticle<5){
+      if(this.countArticle<8){
         this.countArticle++
       }
     },
     prewSlid(){
-      if(this.articleShow===1){
+      if(this.articleShow>0){
         this.articleShow--
       }
       if(this.countArticle>0){
