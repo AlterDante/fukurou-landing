@@ -15,7 +15,12 @@
     position: center;
     image: url("../../assets/images/feedback-bg.png");
   };
-
+.captcha{
+  display: block;
+  margin: 0 auto;
+  padding-top: 5px;
+  z-index: 30;
+}
   .title {
     padding: 60px 0;
     width: 100%;

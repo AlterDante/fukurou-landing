@@ -1,10 +1,13 @@
 <template>
     <div class="feedback-block" ref="feedbackBlock" id="feedback">
-        <div class="title">
+      <!--<div  class="g-recaptcha" v-if="!capcha" data-sitekey="6LdFZZUUAAAAAPnJRrnkn7LE_QW_MofnmfY6Zaxy"></div>-->
+      <!--<div  id="123321"></div>-->
+      <div class="title">
           Связаться с нами
         </div>
       <div class="feedback-container">
         <div class="form-wrapper question" :class="{show:showForms}">
+
           <div class="title">
             Остались вопросы?
             <span>Задайте их нам</span>
@@ -14,13 +17,16 @@
             <input type="text" v-model="dataQuestion.name" placeholder="ФИО*">
             <input type="text" v-model="dataQuestion.email" placeholder="E-mail*">
             <textarea v-model="dataQuestion.message" placeholder="Ваш вопрос*"></textarea>
-            <button @click="sendQuestion()">Задать вопрос</button>
+            <div class="captcha"  id="capQ"></div>
+            <button v-if="!showCapQ" @click="sendQuestion()">Задать вопрос</button>
             <div class="error" v-if="errorMessage.question===true">Все поля обязательны к заполнению*</div>
           </div>
             <div class="done" key="doneQ" v-if="doneStatus.question">
               Спасибо за Ваш вопрос, мы обязательно на него ответим.
             </div>
           </transition>
+
+
         </div>
         <div class="form-wrapper form_feedback" :class="{show:showForms}">
           <div class="title">
@@ -35,7 +41,9 @@
             <input type="text" v-model="dataRequest.name" placeholder="ФИО*">
             <input type="text" v-model="dataRequest.email" placeholder="E-mail*">
             <textarea v-model="dataRequest.message" placeholder="Ваше сообщение*"></textarea>
-            <button @click="sendRequest()">Отправить заявку</button>
+              <div class="captcha"  id="capR"></div>
+
+              <button  v-if="!showCapR" @click="sendRequest()">Отправить заявку</button>
               <div class="error" v-if="errorMessage.request===true">Все поля обязательны к заполнению*</div>
             </div>
             <div class="done" style="color: white" key="doneR" v-if="doneStatus.request">

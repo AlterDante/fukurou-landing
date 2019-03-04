@@ -12,7 +12,6 @@
             <span @click="scrollToId('company')" class="item-nav" >О компании</span>
             <span @click="scrollToId('feedback')" class="item-nav" >Связаться</span>
             <span @click="scrollToId('contacts')" class="item-nav" >Контакты</span>
-
           </nav>
           <div class="email">
             sales@fukurou.ru
