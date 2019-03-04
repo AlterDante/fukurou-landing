@@ -15,11 +15,11 @@
                   Видеобзор
                 </div>
                 <div class="title" style="color: black">
-                  Тест автомобильных ламп ближнего света H7
+                  Тест автомобильных ламп ближнего света H4
                 </div>
                 <!--<div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean</div>-->
               </div>
-              <a href="https://www.youtube.com/watch?v=7pwQtUzsz7g" target="_blank" class="button" style="background-color: #7f62e5; color: white">
+              <a href="https://www.youtube.com/watch?v=fXogyhe_fM8" target="_blank" class="button" style="background-color: #7f62e5; color: white">
                 Подробнее
               </a>
             </div>
@@ -183,11 +183,11 @@
                     Видеобзор
                   </div>
                   <div class="title" style="color: black">
-                    Тест автомобильных ламп ближнего света H7
+                    Тест автомобильных ламп ближнего света H4
                   </div>
                   <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean</div>
                 </div>
-                <a href="https://www.youtube.com/watch?v=7pwQtUzsz7g" target="_blank" class="button" style="background-color: #7f62e5; color: white">
+                <a href="https://www.youtube.com/watch?v=fXogyhe_fM8" target="_blank" class="button" style="background-color: #7f62e5; color: white">
                   Подробнее
                 </a>
               </div>
