@@ -2,6 +2,10 @@
   width: 100%;
   overflow: hidden;
   position: relative;
+  min-height: 400px;
+  @media screen and (max-width: 720px){
+    min-height: 60vh;
+  }
   .information{
     position: absolute;
     top: 80px;

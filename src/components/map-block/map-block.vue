@@ -21,6 +21,7 @@
 
     </div>
     <yandex-map
+      v-if="showMap"
       zoom="16"
       :controls="[]"
       :coords="[54.189299, 45.166067]">
