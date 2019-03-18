@@ -11,14 +11,16 @@
 
           </div>
         </div>
+
         <div class="item-graphics" :class="{show: showGraphics}">
-          <img src="../../assets/images/graphics_3.png" alt="graphics_2">
+          <img src="../../assets/images/graphics_2.png" alt="graphics_2">
+
           <div class="text">
             В сравнении с лампой с повышенной светоотдачей от Osram. Подробнее см. протокол испытания ниже
           </div>
         </div>
         <div class="item-graphics" :class="{show: showGraphics}">
-          <img src="../../assets/images/graphics_2.png" alt="graphics_3">
+          <img src="../../assets/images/graphics_3.png" alt="graphics_3">
           <div class="text">
             Согласно собственным внутренним испытаниям компании. Подробнее см ниже.
           </div>

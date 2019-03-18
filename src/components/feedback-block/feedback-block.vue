@@ -42,7 +42,6 @@
             <input type="text" v-model="dataRequest.email" placeholder="E-mail*">
             <textarea v-model="dataRequest.message" placeholder="Ваше сообщение*"></textarea>
               <div class="captcha"  id="capR"></div>
-
               <button  v-if="!showCapR" @click="sendRequest()">Отправить заявку</button>
               <div class="error" v-if="errorMessage.request===true">Все поля обязательны к заполнению*</div>
             </div>
