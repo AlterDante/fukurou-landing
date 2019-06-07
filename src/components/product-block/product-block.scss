@@ -51,6 +51,7 @@
       align-items: center;
       justify-content: center;
       padding-bottom: 30px;
+      flex-wrap: wrap;
       @media screen and (max-width: 450px){
         flex-direction: column;
       }

@@ -173,6 +173,23 @@
               </div>
             </div>
           </div>
+          <div v-if="articleShow===3" key="group4"  class="article-container full">
+            <div class="article">
+              <img src="../../assets/images/article_7.png" alt="">
+              <div class="information">
+                <div class="type">
+                 Обзор
+                </div>
+                <div class="title">
+                  Тест 10 моделей галогенных ламп H4
+                </div>
+              </div>
+              <a href="http://led-obzor.ru/test-10-modeley-galogennyih-lamp-h4-fukurou-osram-philips-koito-piaa" target="_blank" class="button" style="background-color: #7f62e5; color: white">
+                Подробнее
+              </a>
+            </div>
+
+          </div>
         </transition>
         <div  class="article-container mobile">
             <transition name="fade" :mode="'out-in'">
@@ -334,6 +351,22 @@
                 <div class="button" @click="openAnswer($event)" >
                   Ответ
                 </div>
+              </div>
+              <div v-if="countArticle===9" key="article9" class="article">
+                <img src="../../assets/images/article_9.png" alt="">
+                <div class="information">
+                  <div class="type">
+                    Обзор
+                  </div>
+                  <div class="title">
+                    Тест 10 моделей галогенных ламп H4
+
+
+                  </div>
+                </div>
+                <a href="http://led-obzor.ru/test-10-modeley-galogennyih-lamp-h4-fukurou-osram-philips-koito-piaa" target="_blank" class="button" style="background-color: #7f62e5; color: white">
+                  Подробнее
+                </a>
               </div>
             </transition>
           </div>

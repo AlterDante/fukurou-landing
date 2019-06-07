@@ -8,10 +8,10 @@ export default {
   },
   methods:{
     nextSlid(){
-      if(this.articleShow<2){
+      if(this.articleShow<3){
         this.articleShow++
       }
-      if(this.countArticle<8){
+      if(this.countArticle<9){
         this.countArticle++
       }
     },

@@ -42,7 +42,7 @@
 
             <img src="../../assets/images/man-min.png" alt="">
             <div class="small-text">Наша основная цель - результаты наших партнеров</div>
-            <div class="big-text">ПРИГЛАШАЕМ К СОТРУДНЕЧЕСТВУ!</div>
+            <div class="big-text">ПРИГЛАШАЕМ К СОТРУДНИЧЕСТВУ!</div>
             <span @click="scrollToId('feedback')" class="feedback" href="#">ОСТАВИТЬ ЗАЯВКУ</span>
           </div>
         </div>

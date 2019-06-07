@@ -46,7 +46,7 @@
               <div class="error" v-if="errorMessage.request===true">Все поля обязательны к заполнению*</div>
             </div>
             <div class="done" style="color: white" key="doneR" v-if="doneStatus.request">
-              Спасибо за Вашу заявку, в ближаёшее время мы с вами свяжемся.
+              Спасибо за Вашу заявку, в ближайшее время мы с вами свяжемся.
             </div>
           </transition>
           <button  v-if="!activeForm" @click="activeForm=true">Оставить заявку</button>
