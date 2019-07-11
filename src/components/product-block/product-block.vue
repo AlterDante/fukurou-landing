@@ -4,14 +4,15 @@
         Наши продукты
       </div>
       <div class="product-container">
+        <img src="../../assets/images/HB3.png" alt="HB3">
+        <img src="../../assets/images/H7p.png" alt="H7p">
+        <img src="../../assets/images/H11p.png" alt="H11p">
+        <img src="../../assets/images/Hb4p.png" alt="Hb4">
+        <img src="../../assets/images/Hb4p.png" alt="Hb4p">
         <img src="../../assets/images/H4.png" alt="H4">
         <img src="../../assets/images/H11.png" alt="H11">
-        <img src="../../assets/images/H11p.png" alt="H11p">
         <img src="../../assets/images/H1.png" alt="H1">
         <img src="../../assets/images/H7.png" alt="H7">
-        <img src="../../assets/images/H7p.png" alt="H7p">
-        <img src="../../assets/images/HB3.png" alt="HB3">
-        <img src="../../assets/images/Hb4.png" alt="Hb4">
       </div>
       <div class="market" id="markets">
         <div class="title">где купить <img src="../../assets/images/arrow_down.png" alt=""></div>
