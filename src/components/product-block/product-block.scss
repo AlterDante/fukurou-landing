@@ -18,6 +18,7 @@
     align-items: center;
     justify-content: center;
     padding-bottom: 20px;
+    flex-wrap: wrap;
     @media screen and (max-width: 720px){
       flex-direction: column;
     }

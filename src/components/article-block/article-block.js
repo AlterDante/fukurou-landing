@@ -11,7 +11,7 @@ export default {
       if(this.articleShow<3){
         this.articleShow++
       }
-      if(this.countArticle<9){
+      if(this.countArticle<11){
         this.countArticle++
       }
     },

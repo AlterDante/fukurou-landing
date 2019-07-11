@@ -188,6 +188,39 @@
                 Подробнее
               </a>
             </div>
+            <div class="article">
+              <img src="../../assets/images/article_4.png" alt="">
+              <div class="information">
+                <div class="type">
+                  Вопрос/Ответ
+                </div>
+                <div class="title">
+                  В каких странах производятся лампы и какие лампы лучше?
+                </div>
+                <div class="answer">Лампы Fukurou производятся в Японии, Корее, Германии. Во всех случаях обеспечивается максимально возможное качество и технологичность.
+
+                </div>
+              </div>
+              <div class="button" @click="openAnswer($event)" >
+                Ответ
+              </div>
+            </div>
+            <div class="article">
+              <img src="../../assets/images/article_3.png" alt="">
+              <div class="information">
+                <div class="type">
+                  Вопрос/Ответ
+                </div>
+                <div class="title">
+                  В чем отличие серий F1 и F1 Plus?
+                </div>
+                <div class="answer">В лампах F1 и F1 Plus используются самые передовые технологии, обе серии одинаково технологичны.  F1 Plus наша новейшая разработка. Главное отличие в том, что в F1 Plus акцент смещен на бескомпромиссные световые характеристики.  У серии F1 выше срок службы, например у лампы H7 может превышать 1000 часов при высокой световой отдаче!
+                </div>
+              </div>
+              <div class="button" @click="openAnswer($event)" >
+                Ответ
+              </div>
+            </div>
 
           </div>
         </transition>
@@ -367,6 +400,39 @@
                 <a href="http://led-obzor.ru/test-10-modeley-galogennyih-lamp-h4-fukurou-osram-philips-koito-piaa" target="_blank" class="button" style="background-color: #7f62e5; color: white">
                   Подробнее
                 </a>
+              </div>
+              <div v-if="countArticle===10" key="article10" class="article">
+                <img src="../../assets/images/article_4.png" alt="">
+                <div class="information">
+                  <div class="type">
+                    Вопрос/Ответ
+                  </div>
+                  <div class="title">
+                    В каких странах производятся лампы и какие лампы лучше?
+                  </div>
+                  <div class="answer">Лампы Fukurou производятся в Японии, Корее, Германии. Во всех случаях обеспечивается максимально возможное качество и технологичность.
+
+                  </div>
+                </div>
+                <div class="button" @click="openAnswer($event)" >
+                  Ответ
+                </div>
+              </div>
+              <div v-if="countArticle===11" key="article11" class="article">
+                <img src="../../assets/images/article_3.png" alt="">
+                <div class="information">
+                  <div class="type">
+                    Вопрос/Ответ
+                  </div>
+                  <div class="title">
+                    В чем отличие серий F1 и F1 Plus?
+                  </div>
+                  <div class="answer">В лампах F1 и F1 Plus используются самые передовые технологии, обе серии одинаково технологичны.  F1 Plus наша новейшая разработка. Главное отличие в том, что в F1 Plus акцент смещен на бескомпромиссные световые характеристики.  У серии F1 выше срок службы, например у лампы H7 может превышать 1000 часов при высокой световой отдаче!
+                  </div>
+                </div>
+                <div class="button" @click="openAnswer($event)" >
+                  Ответ
+                </div>
               </div>
             </transition>
           </div>
