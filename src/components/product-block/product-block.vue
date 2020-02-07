@@ -31,7 +31,7 @@
           <a href="https://emex.ru/" target="_blank"><img src="../../assets/images/emex.png" alt="emex"></a>
           <a href="https://ixora-auto.ru/" target="_blank"><img src="../../assets/images/ixora.png" alt="ixora"></a>
           <a href="https://www.autodoc.ru/" target="_blank"><img src="../../assets/images/autodoc-ru.png" alt="autodoc"></a>
-          <a href="https://www.autodoc.ru/" target="_blank"><img src="../../assets/images/exist.png" alt="exist"></a>
+          <a href="https://www.exist.ru/" target="_blank"><img src="../../assets/images/exist.png" alt="exist"></a>
           <a href="https://xn--90acjcjbhmu6bn.xn--p1ai/catalog/galogennye_avtomobilnye_lampy/filter/proizvoditel-is-5e3cf814-1de8-11ea-9493-181dead4976a/apply/" target="_blank">
             <img src="../../assets/images/light.png" alt="autodoc">
           </a>
