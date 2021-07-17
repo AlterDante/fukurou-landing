@@ -25,8 +25,8 @@
           <a href="https://avtobridge.ru/lamps?brand[]=Fukurou&price_mode=price_only&initial_filter=brand%5B%5D" target="_blank"><img src="../../assets/images/avtobridge.png" alt=""></a>
           <a href="https://autopiter.ru/" target="_blank"><img src="../../assets/images/avtopiter.png" alt=""></a>
           <a href="https://svetodiod96.ru/catalog/lampy-fukurou/" target="_blank"><img src="../../assets/images/svetodoid96.png" alt=""></a>
-          <a href="http://avtokomfort33.ru/index.php?route=product/category&path=87_254" target="_blank"><img src="../../assets/images/avto-comfort.png" alt=""></a>
           <a href="https://www.wildberries.ru/brands/fukurou" target="_blank"><img src="../../assets/images/wildberries.png" alt=""></a>
+          <a href="https://www.vseinstrumenti.ru/" target="_blank"><img src="../../assets/images/vse-instruments.png" alt=""></a>
 
           <a href="https://emex.ru/" target="_blank"><img src="../../assets/images/emex.png" alt="emex"></a>
           <a href="https://ixora-auto.ru/" target="_blank"><img src="../../assets/images/ixora.png" alt="ixora"></a>
@@ -35,6 +35,12 @@
           <a href="https://xn--90acjcjbhmu6bn.xn--p1ai/catalog/galogennye_avtomobilnye_lampy/filter/proizvoditel-is-5e3cf814-1de8-11ea-9493-181dead4976a/apply/" target="_blank">
             <img src="../../assets/images/light.png" alt="autodoc">
           </a>
+          <a href="http://avtokomfort33.ru/index.php?route=product/category&path=87_254" target="_blank"><img src="../../assets/images/avto-comfort.png" alt=""></a>
+          <a href="https://sozvezdie-vrn.ru/catalog/fukurou/?view=blocks&page_count=12&sort=name&by=asc" target="_blank"><img src="../../assets/images/sozvezdie.png" alt=""></a>
+          <a href="http://avtomag45.ru/katalog/avtosvet/galogennye_lampy/fukurou/" target="_blank"><img src="../../assets/images/avtomag.png" alt=""></a>
+          <a href="https://vk.com/market-82469181?section=album_168" target="_blank"><img src="../../assets/images/avtosvet68.png" alt=""></a>
+          <a href="https://avtosvet-tyumen.ru/shop/folder/198210301" target="_blank"><img src="../../assets/images/avtosvet.jpg" alt=""></a>
+          <a href="https://xenon-tmn.ru/search/?q=fukurou&send=Y&r=Y" target="_blank"><img src="../../assets/images/ksenon-tumen.png" alt=""></a>
         </div>
       </div>
     </div>

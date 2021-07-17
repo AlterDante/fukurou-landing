@@ -11,7 +11,8 @@ export default {
     this.src = img[0].src
     document.addEventListener('scroll',(event)=>{
       this.srcollWindow = window.pageYOffset
-      if(this.srcollWindow >= this.$refs.mapBlock.offsetTop - 750){
+      console.log(this.srcollWindow >= this.$refs.mapBlock.offsetTop - 1750)
+      if(this.srcollWindow >= this.$refs.mapBlock.offsetTop - 1750){
         this.showMap =  true
       }
     })
