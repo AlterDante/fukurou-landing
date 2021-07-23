@@ -57,9 +57,22 @@
       @media screen and (max-width: 450px){
         flex-direction: column;
       }
+
+
       a{
         width: 15%;
         padding: 20px;
+
+        &.small {
+          width: 10%;
+          @media screen and (max-width: 720px){
+            width: 20%;
+          }
+
+          @media screen and (max-width: 450px){
+            width: 80%;
+          }
+        }
         @media screen and (max-width: 720px){
           width: 30%;
         }

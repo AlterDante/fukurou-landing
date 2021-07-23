@@ -40,7 +40,7 @@
           <a href="http://avtomag45.ru/katalog/avtosvet/galogennye_lampy/fukurou/" target="_blank"><img src="../../assets/images/avtomag.png" alt=""></a>
           <a href="https://vk.com/market-82469181?section=album_168" target="_blank"><img src="../../assets/images/avtosvet68.png" alt=""></a>
           <a href="https://avtosvet-tyumen.ru/shop/folder/198210301" target="_blank"><img src="../../assets/images/avtosvet.jpg" alt=""></a>
-          <a href="https://xenon-tmn.ru/search/?q=fukurou&send=Y&r=Y" target="_blank"><img src="../../assets/images/ksenon-tumen.png" alt=""></a>
+          <a href="https://xenon-tmn.ru/search/?q=fukurou&send=Y&r=Y" target="_blank" class="small"><img src="../../assets/images/ksenon-tumen.png" alt=""></a>
         </div>
       </div>
     </div>
