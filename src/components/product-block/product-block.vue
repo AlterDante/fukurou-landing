@@ -16,6 +16,17 @@
         <img src="../../assets/images/F1H8.png" alt="H4">
 
       </div>
+
+      <div class="title">
+        LED
+      </div>
+      <div class="product-container">
+        <img src="../../assets/images/LE101CW.png" alt="Hb4">
+        <img src="../../assets/images/LE102WW.png" alt="Hb4">
+        <img src="../../assets/images/LE102CW.png" alt="Hb4">
+        <img src="../../assets/images/LE1156CW.png" alt="Hb4">
+        <img src="../../assets/images/LE7443CW.png" alt="Hb4">
+      </div>
       <div class="market" id="markets">
         <div class="title">где купить <img src="../../assets/images/arrow_down.png" alt=""></div>
 
