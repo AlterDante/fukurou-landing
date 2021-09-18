@@ -23,6 +23,10 @@
     @media screen and (max-width: 720px){
       flex-direction: column;
     }
+
+    &.reverse {
+      flex-direction: row;
+    }
     img{
       width: 20%;
       padding: 10px;

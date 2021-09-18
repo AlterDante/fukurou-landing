@@ -20,7 +20,7 @@
       <div class="title">
         LED
       </div>
-      <div class="product-container">
+      <div class="product-container reverse">
         <img src="../../assets/images/LE101CW.png" alt="Hb4">
         <img src="../../assets/images/LE102WW.png" alt="Hb4">
         <img src="../../assets/images/LE102CW.png" alt="Hb4">
