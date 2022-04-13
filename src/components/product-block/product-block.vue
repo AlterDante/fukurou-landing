@@ -39,7 +39,7 @@
           <a href="https://www.ozon.ru/seller/avtobridge-33410/products/" target="_blank"><img src="../../assets/images/ozon.png" alt=""></a>
           <a href="https://avtobridge.ru/lamps?brand[]=Fukurou&price_mode=price_only&initial_filter=brand%5B%5D" target="_blank"><img src="../../assets/images/avtobridge.png" alt=""></a>
           <a href="https://autopiter.ru/" target="_blank"><img src="../../assets/images/avtopiter.png" alt=""></a>
-          <a href="https://svetodiod96.ru/catalog/lampy-fukurou/" target="_blank"><img src="../../assets/images/svetodoid96.png" alt=""></a>
+          <a href="https://bilight-krd.ru/search/?pcode=fukurou" target="_blank"><img src="../../assets/images/bilight.png" alt=""></a>
           <a href="https://www.wildberries.ru/brands/fukurou" target="_blank"><img src="../../assets/images/wildberries.png" alt=""></a>
           <a href="https://vseinstrumenti.ru/fukurou/" target="_blank"><img src="../../assets/images/vse-instruments.png" alt=""></a>
 
@@ -51,13 +51,17 @@
             <img src="../../assets/images/light.png" alt="autodoc">
           </a>
           <a href="http://avtokomfort33.ru/index.php?route=product/category&path=87_254" target="_blank"><img src="../../assets/images/avto-comfort.png" alt=""></a>
+
+
           <a href="https://sozvezdie-vrn.ru/catalog/fukurou/?view=blocks&page_count=12&sort=name&by=asc" target="_blank"><img src="../../assets/images/sozvezdie.png" alt=""></a>
           <a href="http://avtomag45.ru/katalog/avtosvet/galogennye_lampy/fukurou/" target="_blank"><img src="../../assets/images/avtomag.png" alt=""></a>
           <a href="https://vk.com/market-82469181?section=album_168" target="_blank"><img src="../../assets/images/avtosvet68.png" alt=""></a>
           <a href="https://avtosvet-tyumen.ru/shop/folder/198210301" target="_blank"><img src="../../assets/images/avtosvet.jpg" alt=""></a>
           <a href="https://xenon-tmn.ru/search/?q=fukurou&send=Y&r=Y" target="_blank" class="small"><img src="../../assets/images/ksenon-tumen.png" alt=""></a>
-          <a href="https://rassvet84.ru/" target="_blank" class="small"><img src="../../assets/images/rasvet.png" alt=""></a>
-          <a href="https://aliexpress.ru/store/all-wholesale-products/1100062063.html?spm=a2g0o.store_pc_home.pcShopHead_2001512805459.1" target="_blank" class="small"><img src="../../assets/images/ali.png" alt=""></a>
+          <a href="https://rassvet84.ru/katalog/svetodiody?sf_params=58f4ff029a71b0864f628f0af63cbc40&mid=146&id=7&sf_orderby=price&sf_order=asc&sf_start=0&category_id=162&manufacturer_id=0" target="_blank" ><img src="../../assets/images/rasvet.png" alt=""></a>
+          <a href="https://svetodiod96.ru/catalog/lampy-fukurou/" target="_blank"><img src="../../assets/images/svetodoid96.png" alt=""></a>
+
+          <!--          <a href="https://aliexpress.ru/store/all-wholesale-products/1100062063.html?spm=a2g0o.store_pc_home.pcShopHead_2001512805459.1" target="_blank" class="small"><img src="../../assets/images/ali.png" alt=""></a>-->
         </div>
       </div>
     </div>
